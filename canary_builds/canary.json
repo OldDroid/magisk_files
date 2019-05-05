@@ -6,8 +6,8 @@
     "note": "https://raw.githubusercontent.com/topjohnwu/magisk_files/master/canary_builds/notes.md"
   },
   "magisk": {
-    "version": "19.2-4040a024",
-    "versionCode": "19101",
+    "version": "test-hi6250",
+    "versionCode": "19102",
     "link": "https://raw.githubusercontent.com/OldDroid/magisk_files/master/canary_builds/magisk-debug.zip",
     "note": "https://raw.githubusercontent.com/topjohnwu/magisk_files/master/canary_builds/notes.md",
     "md5": "82130471070c7a226f1036589b3579cf"
