@@ -8,9 +8,9 @@
   "magisk": {
     "version": "19.2-4040a024",
     "versionCode": "19101",
-    "link": "https://raw.githubusercontent.com/topjohnwu/magisk_files/master/canary_builds/magisk-debug.zip",
+    "link": "https://raw.githubusercontent.com/OldDroid/magisk_files/master/canary_builds/magisk-debug.zip",
     "note": "https://raw.githubusercontent.com/topjohnwu/magisk_files/master/canary_builds/notes.md",
-    "md5": "268a4a73b6bc496a618d0a4e96a00a98"
+    "md5": "82130471070c7a226f1036589b3579cf"
   },
   "uninstaller": {
     "link": "https://raw.githubusercontent.com/topjohnwu/magisk_files/master/canary_builds/magisk-uninstaller.zip"
